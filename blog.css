@@ -1,10 +1,22 @@
-div{
-    background-color: tomato;
-    padding: 10px;
-    margin-bottom: 10px;
+.card{
+    height: 300px;
+    background-color: teal;
+    width: 350px;
+    border-top-left-radius: 25%;
+    border-top-right-radius: 25%;
+    margin-left: 40%;
+    margin-top: 10%;
+    box-shadow: 15px 5px 10px 5px grey;
 }
 img{
-    height: 400px;
-    width: 350px;
-    margin-left: 25%;
+    height: 200px;
+    width: 200px;
+    margin-left: 75px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
 }
