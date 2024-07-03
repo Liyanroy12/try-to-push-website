@@ -1,17 +1,17 @@
 .card{
     height: 300px;
     background-color: teal;
-    width: 350px;
-    border-top-left-radius: 25%;
-    border-top-right-radius: 25%;
+    width: 300px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
     margin-left: 40%;
     margin-top: 10%;
     box-shadow: 15px 5px 10px 5px grey;
 }
-img{
-    height: 200px;
-    width: 200px;
-    margin-left: 75px;
+.card-img{
+    height: 150px;
+    width: 150px;
+    margin-left: 25%;
     margin-top: 30px;
     border-radius: 50%;
 }
